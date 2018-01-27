@@ -1,0 +1,9 @@
+/* line 1, ../sass/main.sass */
+body {
+  width: 100%;
+  color: #ccc;
+}
+/* line 4, ../sass/main.sass */
+body a {
+  font-size: 13px;
+}
